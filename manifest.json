@@ -1,0 +1,7 @@
+{
+  "name": "Plugin by Psaiqui",
+  "version": "1.0.0",
+  "author": "Psaiqui",
+  "description": "Um plugin de teste para o Discord",
+  "main": "pluginteste.js"
+}
