@@ -1,0 +1,14 @@
+{
+    "name": "Flood",
+    "description": "Message flooding tool.",
+    "authors": [
+        {
+            "name": "Psaiqui",
+            "id": "1024781278702223482"
+        }
+    ],
+    "main": "flood.js",
+    "vendetta": {
+        "icon": ""
+    }
+}
