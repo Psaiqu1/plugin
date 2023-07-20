@@ -38,7 +38,7 @@ export default {
                             } else {
                                 sendEphemeralClydeMessage(id, mensagem.value);
                             }
-                        }, i * 1000); // Atraso em milissegundos, ou seja, 1 segundo (1000 ms)
+                        }, i * 500); // Atraso em milissegundos, ou seja, 1 segundo (1000 ms)
                     }
 
                     sendEphemeralClydeMessage(ctx.channel.id, `pronto!`);
